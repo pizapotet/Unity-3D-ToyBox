@@ -90,6 +90,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "jp.pizepotet.unity-3d-toy-box": {
+      "version": "file:jp.pizapotet.unity-3d-toy-box",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
