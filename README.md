@@ -1,2 +1,8 @@
-# Unity-3DToyBox
-3DToyBox for Unity
+# Unity-3D-ToyBox
+Toy Box for Unity 3D
+
+# How to install
+install git URL
+~~~
+https://github.com/pizapotet/Unity-3D-ToyBox.git?path=Assets/ToyBox
+~~~
